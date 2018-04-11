@@ -2,257 +2,502 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним (18).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 122.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 165.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 199.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 62.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Безуй.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Борис.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Боришек.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Братила 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Братонег.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Валфоромей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Варвара.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Василь.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Васил….txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Винил.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Воислав.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Втора (Взора).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Вышата.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Говен.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Годыга.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Голузя.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Городил.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Гостята 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Григорий.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Гюргий 4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Данила.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Деденя.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дедила.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Демьян.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дертка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр Дорогонежич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Домажир.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дорогонег.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Еремии.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ермола.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Есиф.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жаден.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жаско.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жиден.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жизнобуд.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирослав (Жирята).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирослав 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирошка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Завид 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Завид 8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван Борисович 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иванко 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иванко 5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Игорец.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Играт.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Изяславич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Илейка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Исак.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Климята 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Клопуша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коленец.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Конозюй Нежатич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Корга.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Корчек.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коснила(1).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коснила.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Костян.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кузьма Нежебудич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кузьма.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кулотинич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кюрил.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня) 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лодыга.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Максим.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Малята 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Малята.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мал….txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Марья.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Матфей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Местята.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Микула.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мил.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мирослав.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михаль 7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михаль.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Моисей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Надеек.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настаса.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настасий.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настасия 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Небереш.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Небереша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неговит.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Негошка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неделека.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежата 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежата.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежебуд.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неженец.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Несдич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нестерок.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Никита.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Никола.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нос.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Носатка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Носок.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Овдоть.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Овдотья.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Огафея.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Озарея.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Озекей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Оксинья.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олег Святославич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олекса.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олекша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олисеи.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Онания 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Онания.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Орьша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Павел 5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Патрикий.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Перенег.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Плеш.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прибыла (Прибыля).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прокша 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Промысл.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прус.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прусовая (Прусовея).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила Носович.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путьша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путята 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путята.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Радослав.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ремья.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Родивон.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Русила.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Рык.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Савва 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Савва.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Самуйла.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сбыслав 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сбыслав.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сдан.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Семен 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сергей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сестрата.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Смеон.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сновида.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сольмир.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Станимир.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стежир.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стефан 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стефан.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стойнег.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сторонька.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Страхота.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стреин.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сушко.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Таиша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Татьяна.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Творимир 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тех.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тимофей.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Точко.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тудор 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ульян.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ульяна.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Феврония 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Федора.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фима.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фома 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фома 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фёдор 2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ходут.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ходутинич.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хома.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хотеслав.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Храп.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хыл.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Че(   ).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Чюдька.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Юрий Долгорукий.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яким.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков 3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яковъ.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Якша.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярило.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярина 1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярина.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярыш.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…  Точкович.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Боришка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Говеновая.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Гюргия.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Завижая.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Корчка.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Неберешиная.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Ньжаткина (Аноним 33).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Плешевая.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Иванова.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Орьши.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Теха.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…жир.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files_to_db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним (18).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 199.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Аноним 9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Безуй.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Борис.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Боришек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Братила 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Братонег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Валфоромей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Варвара.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Василь.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Васил….txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Винил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Воислав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Втора (Взора).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Вышата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Говен.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Годыга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Голузя.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Городил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Гостята 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Григорий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Гюргий 4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Данила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Деденя.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дедила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Демьян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дертка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дмитр 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дмитр Дорогонежич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дмитр.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Домажир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Дорогонег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Еремии.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ермола.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Есиф.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жаден.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жаско.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жиден.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жизнобуд.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жирослав (Жирята).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жирослав 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Жирошка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Завид 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Завид 8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иван 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иван 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иван Борисович 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иван.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иванко 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Иванко 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Игорец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Играт.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Изяславич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Илейка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Исак.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Климята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Клопуша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Коленец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Конозюй Нежатич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Корга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Корчек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Коснила(1).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Коснила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Костян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Кузьма Нежебудич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Кузьма.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Кулотинич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Кюрил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лбына (Лбыня) 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лбына (Лбыня).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лодыга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лука 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лука 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Лука.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Максим.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Малята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Малята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Мал….txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Марья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Матфей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Местята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Микула.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Мил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Мирослав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Михаль 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Михаль.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Михей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Моисей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Надеек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Настаса.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Настасий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Настасия 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Небереш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Небереша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Неговит.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Негошка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Неделека.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нежата 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нежата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нежебуд.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Неженец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нежка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Несдич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нестерок.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Никита.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Никола.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Нос.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Носатка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Носок.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Овдоть.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Овдотья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Огафея.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Озарея.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Озекей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Оксинья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Олег Святославич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Олекса.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Олекша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Олисеи.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Онания 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Онания.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Орьша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Павел 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Патрикий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Перенег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Петр 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Петр 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Петр 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Петр.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Плеш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Прибыла (Прибыля).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Прокша 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Промысл.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Прус.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Прусовая (Прусовея).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путила 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путила Носович.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путьша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Путята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Радослав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ремья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Родивон.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Русила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Рык.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Савва 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Савва.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Самуйла.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сбыслав 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сбыслав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сдан.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Семен 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сергей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сестрата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Смеон.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сновида.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сольмир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Станимир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Стежир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Стефан 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Стефан.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Стойнег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сторонька.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Страхота.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Стреин.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Сушко.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Таиша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Татьяна.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Творимир 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Тех.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Тимофей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Точко.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Тудор 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ульян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ульяна.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Феврония 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Федора.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Фима.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Фома 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Фома 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Фёдор 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ходут.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ходутинич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Хома.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Хотеслав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Храп.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Хыл.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Че(   ).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Чюдька.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Юрий Долгорукий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Яким.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Яков 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Яков 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Яков.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Яковъ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Якша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ярило.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ярина 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ярина.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/Ярыш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/…  Точкович.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Боришка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Говеновая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Гюргия.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Завижая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Корчка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Неберешиная.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Ньжаткина (Аноним 33).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/… Плешевая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/…Иванова.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/…Орьши.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/…Теха.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/src/…жир.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним (18).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 122.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 165.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 199.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 35.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Аноним 9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Безуй.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Борис.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Боришек.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Братила 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Братонег.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Валфоромей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Варвара.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Василь.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Васил….txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Винил.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Воислав.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Втора (Взора).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Вышата.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Говен.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Годыга.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Голузя.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Городил.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Гостята 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Григорий.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Гюргий 4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Данила.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Деденя.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дедила.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Демьян.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дертка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дмитр 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дмитр Дорогонежич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дмитр.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Домажир.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Дорогонег.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Еремии.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ермола.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Есиф.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жаден.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жаско.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жиден.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жизнобуд.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жирослав (Жирята).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жирослав 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Жирошка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Завид 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Завид 8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иван 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иван 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иван Борисович 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иван.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иванко 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Иванко 5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Игорец.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Играт.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Изяславич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Илейка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Исак.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Климята 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Клопуша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Коленец.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Конозюй Нежатич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Корга.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Корчек.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Коснила(1).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Коснила.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Костян.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Кузьма Нежебудич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Кузьма.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Кулотинич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Кюрил.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня) 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лодыга.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лука 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лука 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Лука.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Максим.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Малята 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Малята.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Мал….txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Марья.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Матфей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Местята.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Микула.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Мил.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Мирослав.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Михаль 7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Михаль.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Михей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Моисей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Надеек.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Настаса.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Настасий.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Настасия 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Небереш.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Небереша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Неговит.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Негошка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Неделека.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нежата 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нежата.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нежебуд.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Неженец.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нежка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Несдич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нестерок.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Никита.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Никола.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Нос.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Носатка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Носок.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Овдоть.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Овдотья.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Огафея.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Озарея.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Озекей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Оксинья.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Олег Святославич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Олекса.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Олекша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Олисеи.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Онания 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Онания.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Орьша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Павел 5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Патрикий.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Перенег.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Петр 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Петр 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Петр 7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Петр.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Плеш.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Прибыла (Прибыля).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Прокша 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Промысл.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Прус.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Прусовая (Прусовея).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путила 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путила Носович.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путила.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путьша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путята 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Путята.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Радослав.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ремья.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Родивон.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Русила.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Рык.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Савва 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Савва.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Самуйла.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сбыслав 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сбыслав.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сдан.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Семен 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сергей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сестрата.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Смеон.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сновида.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сольмир.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Станимир.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Стежир.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Стефан 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Стефан.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Стойнег.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сторонька.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Страхота.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Стреин.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Сушко.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Таиша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Татьяна.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Творимир 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Тех.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Тимофей.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Точко.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Тудор 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ульян.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ульяна.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Феврония 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Федора.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Фима.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Фома 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Фома 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Фёдор 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ходут.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ходутинич.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Хома.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Хотеслав.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Храп.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Хыл.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Че(   ).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Чюдька.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Юрий Долгорукий.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Яким.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Яков 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Яков 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Яков.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Яковъ.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Якша.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ярило.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ярина 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ярина.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/Ярыш.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/…  Точкович.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Боришка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Говеновая.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Гюргия.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Завижая.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Корчка.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Неберешиная.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Ньжаткина (Аноним 33).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/… Плешевая.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/…Иванова.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/…Орьши.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/…Теха.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testsite/files/…жир.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/files_to_db.py" afterPath="$PROJECT_DIR$/files_to_db.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/admin.py" afterPath="$PROJECT_DIR$/testsite/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/models.py" afterPath="$PROJECT_DIR$/testsite/models.py" />
     </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,7 +511,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/djangogirl$files_to_db.coverage" NAME="files_to_db Coverage Results" MODIFIED="1523436384173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsite" />
+    <SUITE FILE_PATH="coverage/djangogirl$files_to_db.coverage" NAME="files_to_db Coverage Results" MODIFIED="1523439369675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsite" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -281,7 +526,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.48712447">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testsite/urls.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -307,7 +552,7 @@
           <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testsite/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
+                <state relative-caret-position="357">
                   <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
                   <folding>
                     <element signature="e#0#28#0" expanded="true" />
@@ -316,35 +561,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="files_to_db.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/testsite/files_to_db.py">
+          <file leaf-file-name="files_to_db.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/files_to_db.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="461">
-                  <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+                <state relative-caret-position="731">
+                  <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
-                    <marker date="1523436384150" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
+                    <marker date="1523439369647" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Страхота.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/testsite/files/Страхота.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Аноним 2.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/testsite/files/Аноним 2.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -359,20 +584,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Аноним (18).txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/testsite/files/Аноним (18).txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testsite/admin.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="934">
+                <state relative-caret-position="1139">
                   <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
                   <folding>
                     <element signature="e#0#32#0" expanded="true" />
@@ -396,7 +611,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/testsite/models.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -419,9 +634,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testsite/files_to_db.py" />
         <option value="$PROJECT_DIR$/testsite/admin.py" />
         <option value="$PROJECT_DIR$/testsite/models.py" />
+        <option value="$PROJECT_DIR$/testsite/files_to_db.py" />
+        <option value="$PROJECT_DIR$/files_to_db.py" />
       </list>
     </option>
   </component>
@@ -501,10 +717,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/flex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\djangogirl" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.files_to_db">
     <configuration default="false" name="files_to_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -520,7 +741,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="djangogirl" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsite/files_to_db.py" />
+      <option name="SCRIPT_NAME" value="C:\djangogirl\files_to_db.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -631,6 +852,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -801,26 +1028,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42795232" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49015316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48970747" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261105" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42795232" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42795232" sideWeight="0.48933902" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -859,16 +1086,93 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/testsite/files_to_db.py</url>
-          <line>57</line>
+          <url>file://$PROJECT_DIR$/files_to_db.py</url>
+          <line>59</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/files_to_db.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/files_to_db.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testsite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files_to_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1523439369647" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -905,52 +1209,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним 2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним (18).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.sqlite3-journal">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/files_to_db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1523436384150" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/files/Страхота.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним 2.txt" />
+    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним (18).txt" />
+    <entry file="file://$PROJECT_DIR$/db.sqlite3-journal" />
+    <entry file="file://$PROJECT_DIR$/testsite/files/Страхота.txt" />
     <entry file="file://$PROJECT_DIR$/testsite/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="934">
+        <state relative-caret-position="1139">
           <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -960,10 +1225,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testsite/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="357">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files_to_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1523439369647" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
           </folding>
         </state>
       </provider>

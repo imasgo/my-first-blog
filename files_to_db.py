@@ -35,13 +35,15 @@ def create_history_note(conn, historynote):
 
 ar = []
 i=10
-database = 'C:\djangogirl\db.sqlite3'
+path_to_db = os.path.join(os.path.dirname(__file__),'db.sqlite3')
+database = path_to_db
 
 conn = create_connection(database)
+path = os.path.join(os.path.dirname(__file__),'testsite','src')
 with conn:
-    for filename in os.listdir("files"):
+    for filename in os.listdir(path):
         if filename.endswith('.txt'):
-            file = open('files/'+filename,'r',encoding='utf-8')
+            file = open(path+'\\'+filename,'r',encoding='utf-8')
             for line in file:
                 eq = line.index('=',0,len(line))
                 value_st = line[eq+1:len(line)]
