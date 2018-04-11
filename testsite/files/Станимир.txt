@@ -1,0 +1,10 @@
+article_name=Станимир
+author=Maria Repina
+name_in_sources=СТАNИМИ(Р) (Им. п.)
+titles=
+life_dates=Около 1180-1200 гг. 
+biography=
+family_relationship=
+others=
+sources=[Грамота] № 626 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 454.  
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 454.||Том НГБ: IX

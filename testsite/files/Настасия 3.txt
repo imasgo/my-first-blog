@@ -1,0 +1,10 @@
+article_name=Настасия 3
+author=evgolovkina@edu.hse.ru
+name_in_sources= (В.п.)
+titles=
+life_dates=1160-1180
+biography=Упоминалась в поминальной грамоте
+family_relationship=
+others=
+sources=Грамота 551// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 466
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 466||Попр.-X

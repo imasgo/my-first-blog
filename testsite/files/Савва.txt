@@ -1,0 +1,10 @@
+article_name=Савва
+author=m.parfenya@yandex.ru
+name_in_sources=Савэ - Р. П.
+titles=
+life_dates=ок. 1160-1180 гг. 
+biography=Был должен %Анониму 9% 5 гривен
+family_relationship=
+others=
+sources= Грамота Ст. Р. 14 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 445
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 445-446

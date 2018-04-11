@@ -1,0 +1,10 @@
+article_name=Аноним 25
+author=mesatyeva@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=Ок. 1200–1220 гг.
+biography=Ок. 1200–1220 гг. послал сыну %Моисею% указание о сборе долгов с %Ярыша% и %Анонима%.
+family_relationship=Отец %Моисея%.
+others=
+sources=[Грамота] № Смол. 9/8
+literature=

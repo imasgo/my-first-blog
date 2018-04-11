@@ -1,0 +1,10 @@
+article_name=Стреин
+author=evyakovleva_3@edu.hse.ru
+name_in_sources= СТРhbHNA (Род. пад.)
+titles=
+life_dates=Ок. 1075-1100
+biography= С. был должен %Анониму% 2 кун
+family_relationship=
+others=
+sources= Грамота Ст.Р. 13// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 276
+literature=Статья ДНД: А25

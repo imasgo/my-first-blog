@@ -1,0 +1,10 @@
+article_name=Аноним 35
+author=mesatyeva@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=Ок. 1200–1220
+biography=%Моисей%, по приказу отца (%Аноним 25%), должен был взять у данного лица неизвестное количество гривен и восемь ногат, и шесть с половиной гривен - у %Ярыш%а
+family_relationship=
+others=
+sources=[Грамота] № Смол.9/8 
+literature=

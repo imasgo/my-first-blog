@@ -1,0 +1,10 @@
+article_name=Аноним 122
+author=kdpokrovskaya@edu.hse.ru
+name_in_sources=
+titles=Обладала высоким социальным положением (т.к. грамота  №752 несомненна была написана человеком образованным) [Зализняк, 2004]
+life_dates=Ок. 1100 - 1120 гг.
+biography=Девушка.  Писала письмо к своему %возлюбленному%, не пришедшему на свидание.
+family_relationship=
+others=
+sources=1. Грамота №752 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 249 - 254
+literature=2. Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 249 - 254||3. W. Vermeer. Russisch op berkenbast van de elfde tot de vijftiende eeuw. Leiden, 1999.

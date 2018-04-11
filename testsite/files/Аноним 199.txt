@@ -1,0 +1,10 @@
+article_name=Аноним 199
+author=epvig@edu.hse.ru
+name_in_sources=
+titles=Поп.
+life_dates=
+biography=Около 1120–1140 гг. был упомянут в деловом письме.
+family_relationship=
+others=
+sources=Грамота №673 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 340.
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 340.

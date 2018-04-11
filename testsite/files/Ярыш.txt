@@ -1,0 +1,10 @@
+article_name=Ярыш
+author=mesatyeva@edu.hse.ru
+name_in_sources=ѦРЫ:ША (Род.п.)
+titles=
+life_dates=Ок. 1200-1220гг.
+biography=%Моисей%  должен был взять у данного лица и %Аноним 35% деньги (у Ярыша - шесть с половиной гривен) по приказу отца (%Аноним 25%)
+family_relationship=
+others=
+sources=[Грамота] № Смол. 9/8.||Не описана в книге «Древненовгородский диалект»
+literature=
