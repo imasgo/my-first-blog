@@ -6,7 +6,7 @@ from django.db.models import Q
 
 class InputFilter(admin.SimpleListFilter):
     template = 'admin/input_filter.html'
-    related_filter_parameter = 'name_in_sources__titles__id'
+    related_filter_parameter = 'NameInSourcesFilter__TitlesFilter'
     
     
     def lookups(self, request, model_admin):
@@ -67,8 +67,8 @@ class TitlesFilter(InputFilter):
 
 
 class HistoryNoteAdmin(admin.ModelAdmin):
-	search_fields = ('name_in_sources',)
-	list_filter = (NameInSourcesFilter,TitlesFilter,'name_in_sources')
+	search_fields = ('name_in_sources','article_name','author_before','life_dates')
+	list_filter = (NameInSourcesFilter,TitlesFilter,)
 
 admin.site.register(HistoryNote, HistoryNoteAdmin)
 

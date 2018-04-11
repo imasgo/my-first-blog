@@ -1,7 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="" />
+    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним (18).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 199.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Аноним 9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Безуй.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Борис.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Боришек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Братила 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Братонег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Валфоромей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Варвара.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Василь.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Васил….txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Винил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Воислав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Втора (Взора).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Вышата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Говен.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Годыга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Голузя.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Городил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Гостята 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Григорий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Гюргий 4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Данила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Деденя.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дедила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Демьян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дертка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр Дорогонежич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дмитр.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Домажир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Дорогонег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Еремии.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ермола.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Есиф.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жаден.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жаско.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жиден.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жизнобуд.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирослав (Жирята).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирослав 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Жирошка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Завид 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Завид 8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван Борисович 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иван.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иванко 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Иванко 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Игорец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Играт.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Изяславич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Илейка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Исак.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Климята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Клопуша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коленец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Конозюй Нежатич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Корга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Корчек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коснила(1).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Коснила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Костян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кузьма Нежебудич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кузьма.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кулотинич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Кюрил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня) 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лбына (Лбыня).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лодыга.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Лука.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Максим.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Малята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Малята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мал….txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Марья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Матфей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Местята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Микула.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мил.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Мирослав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михаль 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михаль.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Михей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Моисей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Надеек.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настаса.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настасий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Настасия 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Небереш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Небереша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неговит.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Негошка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неделека.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежата 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежебуд.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Неженец.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нежка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Несдич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нестерок.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Никита.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Никола.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Нос.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Носатка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Носок.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Овдоть.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Овдотья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Огафея.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Озарея.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Озекей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Оксинья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олег Святославич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олекса.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олекша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Олисеи.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Онания 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Онания.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Орьша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Павел 5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Патрикий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Перенег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр 7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Петр.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Плеш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прибыла (Прибыля).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прокша 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Промысл.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прус.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Прусовая (Прусовея).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила Носович.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путьша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путята 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Путята.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Радослав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ремья.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Родивон.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Русила.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Рык.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Савва 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Савва.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Самуйла.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сбыслав 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сбыслав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сдан.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Семен 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сергей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сестрата.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Смеон.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сновида.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сольмир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Станимир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стежир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стефан 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стефан.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стойнег.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сторонька.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Страхота.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Стреин.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Сушко.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Таиша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Татьяна.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Творимир 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тех.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тимофей.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Точко.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Тудор 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ульян.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ульяна.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Феврония 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Федора.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фима.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фома 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фома 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Фёдор 2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ходут.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ходутинич.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хома.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хотеслав.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Храп.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Хыл.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Че(   ).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Чюдька.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Юрий Долгорукий.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яким.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков 3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яков.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Яковъ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Якша.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярило.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярина 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярина.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/Ярыш.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…  Точкович.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Боришка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Говеновая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Гюргия.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Завижая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Корчка.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Неберешиная.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Ньжаткина (Аноним 33).txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/… Плешевая.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Иванова.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Орьши.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…Теха.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files/…жир.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/files_to_db.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/admin.py" afterPath="$PROJECT_DIR$/testsite/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/models.py" afterPath="$PROJECT_DIR$/testsite/models.py" />
+    </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -13,12 +265,165 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/djangogirl$files_to_db.coverage" NAME="files_to_db Coverage Results" MODIFIED="1523436384173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testsite" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="djangogirl" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.48712447">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/urls.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/tests.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="374">
+                  <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+                  <folding>
+                    <element signature="e#0#28#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="files_to_db.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/files_to_db.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="461">
+                  <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                    <marker date="1523436384150" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Страхота.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/files/Страхота.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Аноним 2.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/files/Аноним 2.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/apps.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Аноним (18).txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/files/Аноним (18).txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/testsite/admin.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="934">
+                  <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/testsite/views.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/testsite/models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+                  <folding>
+                    <element signature="e#0#28#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testsite/files_to_db.py" />
+        <option value="$PROJECT_DIR$/testsite/admin.py" />
+        <option value="$PROJECT_DIR$/testsite/models.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -27,9 +432,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -76,17 +482,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/flex" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Django server.djangogirl">
+  <component name="RunManager" selected="Python.files_to_db">
+    <configuration default="false" name="files_to_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsite/files_to_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +599,163 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="djangogirl" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="djangogirl" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -133,9 +774,15 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Django server.djangogirl" />
+      <item index="1" class="java.lang.String" itemvalue="Python.files_to_db" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.files_to_db" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -154,28 +801,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49015316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261105" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42795232" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2549234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -189,7 +856,117 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/testsite/files_to_db.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testsite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним 2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/files/Аноним (18).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3-journal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/files_to_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1523436384150" expanded="true" signature="566:779" ph="INSERT INTO testsite_historynote... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/files/Страхота.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
