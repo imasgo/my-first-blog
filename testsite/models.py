@@ -4,7 +4,7 @@ from django.utils import timezone
 class HistoryNote(models.Model):
 
 	article_name = models.TextField(null=True)
-	author = models.ForeignKey('auth.User',default = 'admin',on_delete=models.DO_NOTHING)
+	author = models.ForeignKey('auth.User',default = 'hello',on_delete=models.DO_NOTHING)
 	author_before = models.CharField(max_length=100,null=True)
 	name_in_sources = models.CharField(max_length = 250,null=True,blank=True)
 	titles = models.TextField(null=True,blank=True)
