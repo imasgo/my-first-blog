@@ -1,0 +1,54 @@
+{% extends 'testsite/index.html' %}
+
+{% block gramota %}
+     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+            <h1 class="h2">Грамота</h1>
+        <a href="/add_gramota/">
+            <button type="button" class="btn btn-primary">Добавить грамоту
+            </button>
+        </a>
+        </div>
+    <body>
+         <table class="table">
+
+        <thead class="thead-light">
+            <tr>
+                <th scope="col col-lg-2">Статья</th>
+                <th scope="col col-lg-2">Автор</th>
+{#                <th scope="col col-lg-2">Автор до</th>#}
+                <th scope="col">Имя в источниках</th>
+                <th scope="col">Титулы</th>
+                <th scope="col">Даты жизни</th>
+                <th scope="col-md-auto">Биография</th>
+{#                <th scope="col">Семейные отношения</th>#}
+{#                <th scope="col">Другое</th>#}
+{#                <th scope="col">Источники</th>#}
+{#                <th scope="col">Литература</th>#}
+            </tr>
+        </thead>
+        <tbody>
+            {% for historynote in historynotes %}
+                <tr>
+
+                    <td>
+                        <a href = "/update_hn/{{ historynote.pk }}/"
+                           class = "card-link">{{historynote.article_name}}
+                        </a>
+                    </td>
+                    <td>{{ historynote.author }}</td>
+{#                    <td>{{historynote.author_before}}</td>#}
+                    <td>{{historynote.name_in_sources }}</td>
+                    <td>{{historynote.titles }}</td>
+                    <td>{{historynote.life_dates }}</td>
+                    <td>{{ historynote.biography }}</td>
+{#                    <td>{{ historynote.family_relationship }}</td>#}
+{#                    <td>{{ historynote.other }}</td>#}
+{#                    <td>{{ historynote.sources }}</td>#}
+{#                    <td>{{ historynote.literature }}</td>#}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    </body>
+
+{% endblock %}

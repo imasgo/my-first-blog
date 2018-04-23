@@ -1,6 +1,9 @@
 from django.conf.urls import url
 from . import views
+# from .views import Gramota
 
 urlpatterns = [
-    url(r'^$', views.post_list, name='post_list'),
+    url(r'^$', views.index, name='index'),
+    url(r'^gramota/$', views.gramota, name='gramota')
+
 ]
