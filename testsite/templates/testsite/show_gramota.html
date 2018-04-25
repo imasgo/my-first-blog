@@ -1,0 +1,30 @@
+{% extends 'testsite/index.html' %}
+
+{% block show_gramota %}
+    <div class="historynote">
+
+     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+         <h1>{{ historynote.article_name }}</h1>
+         <a href="{% url 'update_gramota' pk=historynote.pk %}">
+            <button type="button" class="btn btn-primary">Редактировать грамоту
+            </button>
+         </a>
+        </div>
+        <div class="">
+            <h2>Имя в источниках:</h2>
+            {{ historynote.name_in_sources }}
+        </div>
+        <h2>Имя в источниках:</h2>
+            {{ historynote.titles }}
+        <h2>Имя в источниках:</h2>
+            {{ historynote.life_dates }}
+        <h6>Имя в источниках:</h6>
+            {{ historynote.biography }}
+            {{ historynote.family_relationship }}
+            {{ historynote.others }}
+            {{ historynote.sources }}
+            {{ historynote.literature }}
+
+    </div>
+
+{% endblock %}
