@@ -9,7 +9,7 @@
         </a>
         </div>
     <body>
-         <table class="table">
+         <table class="table" data-paging="true">
 
         <thead class="thead-light">
             <tr>
@@ -31,7 +31,7 @@
                 <tr>
 
                     <td>
-                        <a href = "/update_hn/{{ historynote.pk }}/"
+                        <a href = "/show_gramota/{{ historynote.pk }}/"
                            class = "card-link">{{historynote.article_name}}
                         </a>
                     </td>
@@ -52,3 +52,4 @@
     </body>
 
 {% endblock %}
+
