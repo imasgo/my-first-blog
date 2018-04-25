@@ -19,4 +19,4 @@ class HistoryNote(models.Model):
         self.save()
 
     def __str__(self):
-        return ' {} | {} |  {} '.format(self.article_name, self.name_in_sources, self.life_dates)
+        return ' {} | {} '.format(self.article_name, self.name_in_sources)

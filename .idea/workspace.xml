@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/static/js/footable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/static/js/footable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/admin.py" afterPath="$PROJECT_DIR$/testsite/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/models.py" afterPath="$PROJECT_DIR$/testsite/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/templates/testsite/gramota.html" afterPath="$PROJECT_DIR$/testsite/templates/testsite/gramota.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/templates/testsite/index.html" afterPath="$PROJECT_DIR$/testsite/templates/testsite/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/urls.py" afterPath="$PROJECT_DIR$/testsite/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/views.py" afterPath="$PROJECT_DIR$/testsite/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" afterPath="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" />
     </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,7 +99,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testsite/admin.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1071">
@@ -143,11 +131,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="show_gramota.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="show_gramota.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="62" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="62" />
+                <state relative-caret-position="476">
+                  <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -160,8 +148,8 @@
           <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/testsite/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+                <state relative-caret-position="357">
+                  <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
                   <folding>
                     <element signature="e#0#28#0" expanded="true" />
                   </folding>
@@ -195,11 +183,11 @@
         <option value="$PROJECT_DIR$/testsite/templates/testsite/index.html" />
         <option value="$PROJECT_DIR$/testsite/urls.py" />
         <option value="$PROJECT_DIR$/testsite/views.py" />
-        <option value="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html" />
         <option value="$PROJECT_DIR$/testsite/forms.py" />
         <option value="$PROJECT_DIR$/testsite/admin.py" />
         <option value="$PROJECT_DIR$/testsite/models.py" />
+        <option value="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" />
       </list>
     </option>
   </component>
@@ -978,14 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1020,16 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1048,6 +1018,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -1055,6 +1035,14 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
