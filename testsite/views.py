@@ -42,3 +42,6 @@ def update_gramota(request, pk):
     else:
         form = HistoryNoteForm(instance=historynote)
     return render(request, 'testsite/update_gramota.html', {'form': form})
+
+def symbols_panel(request):
+    return render(request, 'testsite/symbols_panel.html')
