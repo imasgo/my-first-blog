@@ -6,16 +6,16 @@ from django.views.generic.list import ListView
 
 def post_list(request):
     historynotes = HistoryNote.objects.order_by('name_in_sources')
-    return render(request, 'testsite/post_list.html', {'historynotes': historynotes})
+    return render(request, 'post_list.html', {'historynotes': historynotes})
 
 
 def index(request):
-    return render(request, 'testsite/index.html')
+    return render(request, 'index.html')
 
 
 def gramota(request):
     historynotes = HistoryNote.objects.order_by('name_in_sources')
-    return render(request, 'testsite/gramota.html', {'historynotes': historynotes})
+    return render(request, 'gramota.html', {'historynotes': historynotes})
 
 
 # class Gramota(ListView):
@@ -27,7 +27,7 @@ def gramota(request):
 
 def show_gramota(request, pk):
     historynote = get_object_or_404(HistoryNote, pk=pk)
-    return render(request, 'testsite/show_gramota.html', {'historynote': historynote})
+    return render(request, 'show_gramota.html', {'historynote': historynote})
 
 
 def update_gramota(request, pk):
@@ -41,7 +41,7 @@ def update_gramota(request, pk):
             return redirect('show_gramota', pk=historynote.pk)
     else:
         form = HistoryNoteForm(instance=historynote)
-    return render(request, 'testsite/update_gramota.html', {'form': form})
+    return render(request, 'update_gramota.html', {'form': form})
 
 def symbols_panel(request):
-    return render(request, 'testsite/symbols_panel.html')
+    return render(request, 'symbols_panel.html')

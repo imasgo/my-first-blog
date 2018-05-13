@@ -1,113 +1,23 @@
-{% load static %}
+{% extends 'index.html'%}
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-    <!-- Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-      <!-- jQuery -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-    <!-- jQuery UI theme or Bootstrap (optional, if you create a custom theme) -->
-    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
-{#    <link href="../static/css/bootstrap.min.css" rel="stylesheet">#}
-
-    <!-- jQuery UI position utility (optional, if you position the keyboard yourself) -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
-
-    <!-- keyboard widget css & script -->
-    <link href="{% static "css/keyboard.css" %}" rel="stylesheet">
-    <script src="/templates/static/js/jquery.keyboard.js"></script>
-
-    <!-- css for the preview keyset extension -->
-    <link href="/djangogirl/testsite/templates/static/css/keyboard-previewkeyset.css" rel="stylesheet">
-
-    <!-- keyboard optional extensions - include ALL (includes mousewheel) -->
-    <script src="/djangogirl/testsite/templates/static/js/jquery.keyboard.extension-all.js"></script>
-    <!-- or include individual extensions, as desired -->
-    <!--
-    <script src="js/jquery.mousewheel.js"></script>
-    <script src="js/jquery.keyboard.extension-altkeypopup.js"></script>
-    <script src="js/jquery.keyboard.extension-autocomplete.js"></script>
-    <script src="js/jquery.keyboard.extension-caret.js"></script>
-    <script src="js/jquery.keyboard.extension-extender.js"></script>
-    <script src="js/jquery.keyboard.extension-mobile.js"></script>
-    <script src="js/jquery.keyboard.extension-navigation.js"></script>
-    <script src="js/jquery.keyboard.extension-previewkeyset.js"></script>
-    <script src="js/jquery.keyboard.extension-scramble.js"></script>
-    <script src="js/jquery.keyboard.extension-typing.js"></script>
-    -->
+{% block update_gramota %}
 
 
+    <div class="container">
+        <div class="">
+            <div class="">
+            <form action="" method="post">
+                {% csrf_token %}
 
-<body>
-    <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
-      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Prospography HSE</a>
-
-      <ul class="navbar-nav px-3">
-        <li class="nav-item text-nowrap">
-          <a class="nav-link" href="#">Sign out</a>
-        </li>
-      </ul>
-    </nav>
-
-    <div class="container-fluid">
-      <div class="row">
-        <nav class="col-2 d-none d-md-block bg-light sidebar">
-          <div class="sidebar-sticky">
-            <ul class="nav flex-column">
-              <li class="nav-item">
-                <a class="nav-link active" href="/">
-                  <span data-feather="home"></span>
-                  Обзор <span class="sr-only">(current)</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/gramota/">
-                  <span data-feather="file"></span>
-                  Грамота
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/letopis/">
-                  <span data-feather="layers"></span>
-                  Летопись
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/researchers/">
-                  <span data-feather="users"></span>
-                  Участники
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/all/">
-                  <span data-feather="bar-chart-2"></span>
-                  Все записи
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-
-
-
-      <div>
-          <div id="wrap">
-        <input id="keyboard" type="text" />
-        <img id="icon" src="https://mottie.github.io/Keyboard/docs/css/images/keyboard.png" />
-
+                {% for field in form %}
+                    <div class="form-group">
+                        {{ field.label }}
+                        {{  field }}
+                    </div>
+                {% endfor %}
+                        <button type="submit" class="btn btn-success">Сохранить</button>
           <script>
+
         $('#keyboard').keyboard({
       // set this to ISO 639-1 language code to override language set by
       // the layout: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -119,20 +29,17 @@
       // choose from 'qwerty', 'alpha',
       // 'international', 'dvorak', 'num' or
       // 'custom' (to use the customLayout below)
-      layout: 'qwerty',
-      customLayout: {
-        'default': [
-          'd e f a u l t',
-          '{meta1} {meta2} {accept} {cancel}'
-        ],
-        'meta1': [
-          'm y m e t a 1',
-          '{meta1} {meta2} {accept} {cancel}'
-        ],
-        'meta2': [
-          'M Y M E T A 2',
-          '{meta1} {meta2} {accept} {cancel}'
-        ]
+      layout: 'custom',
+      customLayout: {'normal' : [
+			// "n(a):title_or_tooltip"; n = new key, (a) = actual key, ":label" = title_or_tooltip (use an underscore "_" in place of a space " ")
+			'\u0404 \u0405 \u0406 \u0407 \u0454 \u0455 \u0456 \u0457 \u0460 \u0461 \u0462 \u0463',
+            '\u0464 \u0465 \u0466 \u0467 \u0468 \u046a \u046b \u046c \u046d \u046e \u046f \u0470',
+            '\u0471 \u0472 \u0473 \u0474 \u0475 \u0476 \u0477 \u0478 \u047a \u047b \u047c \u047d',
+            '\u047e \u047f \ua656 \ua657 {accept} {cancel}',
+
+
+		]
+
       },
       // Used by jQuery UI position utility
       position: {
@@ -174,60 +81,7 @@
       // if true, keyboard will not close if you press escape.
       ignoreEsc: false,
 
-      // *** change keyboard language & look ***
-      display: {
-        'meta1': '\u2666', // Diamond
-        'meta2': '\u2665', // Heart
 
-        // check mark (accept)
-        'a': '\u2714:Accept (Shift-Enter)',
-        'accept': 'Accept:Accept (Shift-Enter)',
-        'alt': 'AltGr:Alternate Graphemes',
-        // Left arrow (same as &larr;)
-        'b': '\u2190:Backspace',
-        'bksp': 'Bksp:Backspace',
-        // big X, close/cancel
-        'c': '\u2716:Cancel (Esc)',
-        'cancel': 'Cancel:Cancel (Esc)',
-        // clear num pad
-        'clear': 'C:Clear',
-        'combo': '\u00f6:Toggle Combo Keys',
-        // num pad decimal '.' (US) & ',' (EU)
-        'dec': '.:Decimal',
-        // down, then left arrow - enter symbol
-        'e': '\u21b5:Enter',
-        'empty': '\u00a0', // &nbsp;
-        'enter': 'Enter:Enter',
-        // left arrow (move caret)
-        'left': '\u2190',
-        // caps lock
-        'lock': '\u21ea Lock:Caps Lock',
-        'next': 'Next \u21e8',
-        'prev': '\u21e6 Prev',
-        // right arrow (move caret)
-        'right': '\u2192',
-        // thick hollow up arrow
-        's': '\u21e7:Shift',
-        'shift': 'Shift:Shift',
-        // +/- sign for num pad
-        'sign': '\u00b1:Change Sign',
-        'space': '\u00a0:Space',
-        // right arrow to bar
-        // \u21b9 is the true tab symbol
-        't': '\u21e5:Tab',
-        'tab': '\u21e5 Tab:Tab',
-        // replaced by an image
-        'toggle': ' ',
-
-        // added to titles of keys
-        // accept key status when acceptValid:true
-        'valid': 'valid',
-        'invalid': 'invalid',
-        // combo key states
-        'active': 'active',
-        'disabled': 'disabled'
-
-      },
 
       // Message added to the key title while hovering,
       // if the mousewheel plugin exists
@@ -260,7 +114,7 @@
       // *** Useability ***
       // Auto-accept content when clicking outside the
       // keyboard (popup will close)
-      autoAccept: false,
+      autoAccept: true,
       // Auto-accept content even if the user presses escape
       // (only works if `autoAccept` is `true`)
       autoAcceptOnEsc: false,
@@ -461,37 +315,8 @@
     });})
     </script>
 
-      </div>
-
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
-            {% block gramota %}{% endblock %}
-            {% block show_gramota %} {% endblock %}
-            {% block update_gramota %}{% endblock %}
-            {% block symbols_panel %}{% endblock %}
-
-        </main>
-
-
-      </div>
+    </form>
     </div>
+{% endblock %}
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster конфликтует с jQuery UI-->
-{#    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>#}
-{#    <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>#}
-
-    <!-- Django-Bootstrap конфликтует с jQuery UI-->
-{#    <script src="{% static 'bootstrap/js/jquery.min.js' %}"></script>#}
-{#    <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>#}
-
-    <!-- Icons -->
-    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
-    <script>
-      feather.replace()
-    </script>
-
-{#  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">#}
-{#  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">#}
-    </body>
-</html>
+{#{% url 'show_gramota' pk=historynote.pk %}#}

@@ -1,7 +1,456 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="" />
+    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsite/static/js/keyboard-script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/admin/input_filter.html" afterPath="$PROJECT_DIR$/testsite/admin/input_filter.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/.editorconfig" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/.editorconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/.eslintrc" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/.eslintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/.gitattributes" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/.gitattributes" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/.gitignore" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/.mailmap" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/.mailmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/AUTHORS" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/AUTHORS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/Gruntfile.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/Gruntfile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/LICENSE" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/README.md" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/bower.json" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/composer.json" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/composer.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/images/disabled.svg" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/images/disabled.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/images/enabled.svg" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/images/enabled.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/images/keyboard.svg" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/images/keyboard.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/keyboard-basic.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/keyboard-basic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/keyboard-dark.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/keyboard-dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/keyboard-previewkeyset.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/keyboard-previewkeyset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/css/keyboard.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/css/keyboard.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/css/keyboard-basic.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/css/keyboard-basic.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/css/keyboard-dark.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/css/keyboard-dark.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/css/keyboard-previewkeyset.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/css/keyboard-previewkeyset.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/css/keyboard.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/css/keyboard.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-all.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-all.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-altkeyspopup.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-altkeyspopup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-autocomplete.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-autocomplete.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-caret.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-caret.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-extender.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-extender.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-mobile.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-mobile.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-navigation.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-navigation.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-previewkeyset.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-previewkeyset.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-scramble.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-scramble.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.extension-typing.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.extension-typing.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.keyboard.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.keyboard.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/js/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/js/jquery.mousewheel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/amh.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/amh.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/de.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/de.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/es.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/es.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/fa.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/fa.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/fr.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/fr.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/he.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/he.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/hu.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/hu.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/it.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/it.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/lv.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/lv.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/my.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/my.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/pl.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/pl.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/pt.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/pt.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/ro.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/ro.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/ru.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/ru.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/languages/sq.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/languages/sq.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/albanian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/albanian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/arabic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/arabic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/belarusian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/belarusian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/bengali.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/bengali.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/bulgarian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/bulgarian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/burmese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/burmese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/catalan.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/catalan.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/chinese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/chinese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/danish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/danish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ethiopic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ethiopic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/french.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/french.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/german.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/german.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/hebrew.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/hebrew.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/hindi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/hindi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/hungarian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/hungarian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/hungarianansi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/hungarianansi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/japanese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/japanese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/keyboard-layouts-combined.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/keyboard-layouts-combined.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/keyboard-layouts-greywyvern.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/keyboard-layouts-greywyvern.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/keyboard-layouts-microsoft.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/keyboard-layouts-microsoft.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/latvian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/latvian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/mongolian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/mongolian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Albanian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Albanian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Arabic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Arabic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Armenian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Armenian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Assamese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Assamese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Azeri.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Azeri.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Bashkir.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Bashkir.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Belarusian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Belarusian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Belgian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Belgian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Bengali.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Bengali.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Bulgarian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Bulgarian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Canadian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Canadian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Chinese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Chinese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Czech.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Czech.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Danish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Danish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Devanagari.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Devanagari.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Divehi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Divehi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Dutch.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Dutch.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Estonian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Estonian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Faeroese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Faeroese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Finnish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Finnish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-French.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-French.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Gaelic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Gaelic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Georgian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Georgian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-German.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-German.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Greek.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Greek.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Greenlandic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Greenlandic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Gujarati.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Gujarati.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Hausa.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Hausa.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Hebrew.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Hebrew.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Hindi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Hindi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Hungarian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Hungarian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Icelandic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Icelandic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Igbo.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Igbo.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Inuktitut.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Inuktitut.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Irish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Irish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Italian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Italian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Japanese-Hiragana.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Japanese-Hiragana.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Kannada.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Kannada.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Kazakh.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Kazakh.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Korean.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Korean.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Kyrgyz-Cyrillic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Kyrgyz-Cyrillic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Lao.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Lao.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Latin-American.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Latin-American.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Latvian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Latvian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Lithuanian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Lithuanian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Luxembourgish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Luxembourgish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Macedonian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Macedonian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Malayalam.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Malayalam.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Maltese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Maltese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Maori.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Maori.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Marathi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Marathi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Mongolian-Cyrillic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Mongolian-Cyrillic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Nepali.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Nepali.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Norwegian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Norwegian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Oriya.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Oriya.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Pashto.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Pashto.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Persian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Persian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Polish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Polish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Portuguese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Portuguese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Punjabi.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Punjabi.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Romanian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Romanian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Russian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Russian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Sami.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Sami.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Serbian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Serbian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Setswana.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Setswana.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Sinhala.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Sinhala.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Slovak.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Slovak.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Slovenian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Slovenian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Sorbian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Sorbian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Spanish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Spanish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Swedish-Sami.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Swedish-Sami.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Swedish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Swedish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Swiss-German.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Swiss-German.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Syriac.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Syriac.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Tajik.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Tajik.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Tamil.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Tamil.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Tatar.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Tatar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Telugu.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Telugu.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Thai.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Thai.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Tibetan.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Tibetan.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Turkish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Turkish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Turkmen.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Turkmen.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-US-Dvorak.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-US-Dvorak.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-US-English.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-US-English.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Ukrainian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Ukrainian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-United-Kingdom.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-United-Kingdom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Urdu.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Urdu.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Uyghur.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Uyghur.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Uzbek-Cyrillic.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Uzbek-Cyrillic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Vietnamese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Vietnamese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Wolof.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Wolof.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Yakut.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Yakut.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/ms-Yoruba.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/ms-Yoruba.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/persian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/persian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/polish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/polish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/portuguese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/portuguese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/romanian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/romanian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/russian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/russian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/serbian.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/serbian.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/spanish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/spanish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/swedish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/swedish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/tamil.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/tamil.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/thai.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/thai.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/turkish.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/turkish.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/dist/layouts/vietnamese.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/dist/layouts/vietnamese.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/altkeys-popup.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/altkeys-popup.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/basic.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/calculator.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/calculator.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/calculator.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/calculator.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/demo.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/demo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/calc-1overx.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/calc-1overx.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/calc-ex.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/calc-ex.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/calc-xy.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/calc-xy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/calc-yroot.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/calc-yroot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/external.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/external.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/keyboard.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/keyboard.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_flat_30_cccccc_40x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_flat_30_cccccc_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_flat_50_5c5c5c_40x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_flat_50_5c5c5c_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_glass_20_555555_1x400.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_glass_20_555555_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_glass_40_0078a3_1x400.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_glass_40_0078a3_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_glass_40_ffc73d_1x400.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_glass_40_ffc73d_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_gloss-wave_25_333333_500x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_gloss-wave_25_333333_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_inset-soft_25_000000_1x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_inset-soft_25_000000_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-bg_inset-soft_30_f58400_1x100.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-bg_inset-soft_30_f58400_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-icons_4b8e0b_256x240.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-icons_4b8e0b_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-icons_a83300_256x240.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-icons_a83300_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-icons_cccccc_256x240.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-icons_cccccc_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/images/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/jquery-ui.min.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/jquery-ui.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/prettify.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/prettify.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/css/tipsy.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/css/tipsy.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/extender.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/extender.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/jquery-mobile-1.4.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/jquery-mobile-1.4.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/calculator.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/calculator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/demo.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/demo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/jquery-latest.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/jquery-latest.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/jquery-migrate-3.0.0.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/jquery-migrate-3.0.0.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/jquery-ui.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/jquery.jui_theme_switch.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/jquery.jui_theme_switch.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/jquery.tipsy.min.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/jquery.tipsy.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/prettify.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/prettify.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/js/theme_switcher.json" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/js/theme_switcher.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/layouts.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/layouts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/layouts2.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/layouts2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/layouts3.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/layouts3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/mobile.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/mobile.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/navigate.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/navigate.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/preview-keyset.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/preview-keyset.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/docs/scramble.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/docs/scramble.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/index.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-autocomplete.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-autocomplete.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-caret.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-caret.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-extender.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-extender.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-mobile.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-mobile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-navigation.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-navigation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-previewkeyset.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-previewkeyset.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-scramble.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-scramble.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.extension-typing.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.extension-typing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.mousewheel.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.mousewheel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/keyboard.jquery.json" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/keyboard.jquery.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/README.md" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/_language_template.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/_language_template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/amh.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/amh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ar.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ar.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/as.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/as.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/be.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/be.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/bg.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/bg.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/bn.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/bn.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ca.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ca.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/da.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/da.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/de.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/de.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/es.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/es.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/fa.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/fa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/fr.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/fr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/gu.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/gu.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/he.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/he.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/hi.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/hi.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/hu.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/hu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/it.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/it.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ja.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ja.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/kn.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/kn.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/lv.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/lv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/mn.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/mn.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/mr.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/mr.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/my.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/my.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ne.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ne.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/pa.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/pa.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/pl.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/pl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/pt.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/pt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ro.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ro.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ru.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ru.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/sq.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/sq.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/sr.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/sr.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/sv.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/sv.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ta.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ta.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/te.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/te.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/th.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/th.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/tr.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/tr.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/ur.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/ur.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/vi.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/vi.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/languages/zh.untranslated.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/languages/zh.untranslated.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/_layout_template.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/_layout_template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/albanian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/albanian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/arabic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/arabic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/belarusian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/belarusian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/bengali.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/bengali.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/bulgarian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/bulgarian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/burmese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/burmese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/catalan.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/catalan.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/chinese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/chinese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/danish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/danish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ethiopic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ethiopic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/french.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/french.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/german.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/german.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/hebrew.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/hebrew.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/hindi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/hindi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/hungarian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/hungarian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/hungarianansi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/hungarianansi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/japanese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/japanese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/keyboard-layouts-combined.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/keyboard-layouts-combined.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/keyboard-layouts-greywyvern.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/keyboard-layouts-greywyvern.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/keyboard-layouts-microsoft.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/keyboard-layouts-microsoft.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/latvian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/latvian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/mongolian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/mongolian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Albanian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Albanian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Arabic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Arabic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Armenian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Armenian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Assamese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Assamese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Azeri.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Azeri.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Bashkir.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Bashkir.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Belarusian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Belarusian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Belgian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Belgian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Bengali.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Bengali.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Bulgarian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Bulgarian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Canadian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Canadian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Chinese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Chinese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Czech.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Czech.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Danish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Danish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Devanagari.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Devanagari.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Divehi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Divehi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Dutch.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Dutch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Estonian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Estonian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Faeroese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Faeroese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Finnish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Finnish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-French.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-French.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Gaelic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Gaelic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Georgian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Georgian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-German.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-German.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Greek.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Greek.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Greenlandic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Greenlandic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Gujarati.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Gujarati.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Hausa.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Hausa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Hebrew.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Hebrew.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Hindi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Hindi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Hungarian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Hungarian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Icelandic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Icelandic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Igbo.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Igbo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Inuktitut.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Inuktitut.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Irish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Irish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Italian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Italian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Japanese-Hiragana.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Japanese-Hiragana.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Kannada.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Kannada.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Kazakh.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Kazakh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Korean.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Korean.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Kyrgyz-Cyrillic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Kyrgyz-Cyrillic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Lao.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Lao.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Latin-American.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Latin-American.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Latvian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Latvian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Lithuanian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Lithuanian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Luxembourgish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Luxembourgish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Macedonian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Macedonian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Malayalam.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Malayalam.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Maltese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Maltese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Maori.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Maori.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Marathi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Marathi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Mongolian-Cyrillic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Mongolian-Cyrillic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Nepali.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Nepali.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Norwegian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Norwegian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Oriya.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Oriya.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Pashto.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Pashto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Persian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Persian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Polish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Polish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Portuguese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Portuguese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Punjabi.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Punjabi.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Romanian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Romanian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Russian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Russian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Sami.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Sami.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Serbian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Serbian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Setswana.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Setswana.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Sinhala.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Sinhala.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Slovak.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Slovak.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Slovenian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Slovenian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Sorbian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Sorbian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Spanish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Spanish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Swedish-Sami.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Swedish-Sami.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Swedish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Swedish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Swiss-German.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Swiss-German.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Syriac.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Syriac.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Tajik.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Tajik.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Tamil.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Tamil.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Tatar.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Tatar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Telugu.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Telugu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Thai.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Thai.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Tibetan.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Tibetan.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Turkish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Turkish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Turkmen.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Turkmen.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-US-Dvorak.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-US-Dvorak.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-US-English.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-US-English.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Ukrainian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Ukrainian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-United-Kingdom.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-United-Kingdom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Urdu.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Urdu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Uyghur.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Uyghur.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Uzbek-Cyrillic.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Uzbek-Cyrillic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Vietnamese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Vietnamese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Wolof.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Wolof.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Yakut.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Yakut.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/ms-Yoruba.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/ms-Yoruba.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/persian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/persian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/polish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/polish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/portuguese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/portuguese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/romanian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/romanian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/russian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/russian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/serbian.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/serbian.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/spanish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/spanish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/swedish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/swedish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/tamil.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/tamil.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/thai.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/thai.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/turkish.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/turkish.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/layouts/vietnamese.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/layouts/vietnamese.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/package.json" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/testing/qunit-2.2.0.css" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/testing/qunit-2.2.0.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/testing/qunit-2.2.0.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/testing/qunit-2.2.0.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/testing/test.html" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/testing/test.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/testing/testing.js" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/testing/testing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/Keyboard-master/tools/authors.sh" afterPath="$PROJECT_DIR$/testsite/static/Keyboard-master/tools/authors.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/blog.css" afterPath="$PROJECT_DIR$/testsite/static/css/blog.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.css" afterPath="$PROJECT_DIR$/testsite/static/css/footable.bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.min.css" afterPath="$PROJECT_DIR$/testsite/static/css/footable.bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/footable.standalone.css" afterPath="$PROJECT_DIR$/testsite/static/css/footable.standalone.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/footable.standalone.min.css" afterPath="$PROJECT_DIR$/testsite/static/css/footable.standalone.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/keyboard-basic.css" afterPath="$PROJECT_DIR$/testsite/static/css/keyboard-basic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/keyboard-dark.css" afterPath="$PROJECT_DIR$/testsite/static/css/keyboard-dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/keyboard-previewkeyset.css" afterPath="$PROJECT_DIR$/testsite/static/css/keyboard-previewkeyset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/css/keyboard.css" afterPath="$PROJECT_DIR$/testsite/static/css/keyboard.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/js/footable.js" afterPath="$PROJECT_DIR$/testsite/static/js/footable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/js/footable.min.js" afterPath="$PROJECT_DIR$/testsite/static/js/footable.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/js/jquery.keyboard.extension-all.js" afterPath="$PROJECT_DIR$/testsite/static/js/jquery.keyboard.extension-all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/js/jquery.keyboard.extension-altkeyspopup.js" afterPath="$PROJECT_DIR$/testsite/static/js/jquery.keyboard.extension-altkeyspopup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/static/js/jquery.keyboard.js" afterPath="$PROJECT_DIR$/testsite/static/js/jquery.keyboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/all.html" afterPath="$PROJECT_DIR$/testsite/templates/all.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/gramota.html" afterPath="$PROJECT_DIR$/testsite/templates/gramota.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/index.html" afterPath="$PROJECT_DIR$/testsite/templates/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/keyboard.html" afterPath="$PROJECT_DIR$/testsite/templates/keyboard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/letopis.html" afterPath="$PROJECT_DIR$/testsite/templates/letopis.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/post_list.html" afterPath="$PROJECT_DIR$/testsite/templates/post_list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html" afterPath="$PROJECT_DIR$/testsite/templates/show_gramota.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/symbols_panel.html" afterPath="$PROJECT_DIR$/testsite/templates/symbols_panel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html" afterPath="$PROJECT_DIR$/testsite/templates/update_gramota.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/forms.py" afterPath="$PROJECT_DIR$/testsite/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsite/views.py" afterPath="$PROJECT_DIR$/testsite/views.py" />
+    </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -40,73 +489,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <file leaf-file-name="update_gramota.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/templates/update_gramota.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsite/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="37" column="27" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyboard-script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/static/js/keyboard-script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="580" column="7" selection-start-line="580" selection-start-column="7" selection-end-line="580" selection-end-column="7" />
               <folding>
-                <element signature="e#640#681#0" expanded="true" />
+                <element signature="e#0#49#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="update_gramota.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/templates/all.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/index.html">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="782">
+              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <file leaf-file-name="input_filter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsite/admin/input_filter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="gramota.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/gramota.html">
+        <entry file="file://$PROJECT_DIR$/testsite/templates/gramota.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="0" selection-start-line="11" selection-start-column="10" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="keyboard.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/keyboard.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/all.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -119,6 +582,7 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -132,12 +596,10 @@
         <option value="$PROJECT_DIR$/files_to_db.py" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/letopis.html" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/all.html" />
-        <option value="$PROJECT_DIR$/testsite/forms.py" />
         <option value="$PROJECT_DIR$/testsite/admin.py" />
         <option value="$PROJECT_DIR$/testsite/models.py" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/symbols.html" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/symbols_panel.html" />
-        <option value="$PROJECT_DIR$/testsite/views.py" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/keyboard.html" />
         <option value="$PROJECT_DIR$/testsite/templates/static/css/blog.css" />
         <option value="$PROJECT_DIR$/testsite/templates/testsite/gramota.html" />
@@ -146,6 +608,14 @@
         <option value="$PROJECT_DIR$/testsite/templates/testsite/index.html" />
         <option value="$PROJECT_DIR$/testsite/urls.py" />
         <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/testsite/templates/show_gramota.html" />
+        <option value="$PROJECT_DIR$/testsite/templates/gramota.html" />
+        <option value="$PROJECT_DIR$/testsite/views.py" />
+        <option value="$PROJECT_DIR$/testsite/static/js/keyboard-script2.js" />
+        <option value="$PROJECT_DIR$/testsite/templates/index.html" />
+        <option value="$PROJECT_DIR$/testsite/static/js/keyboard-script.js" />
+        <option value="$PROJECT_DIR$/testsite/templates/update_gramota.html" />
+        <option value="$PROJECT_DIR$/testsite/forms.py" />
       </list>
     </option>
   </component>
@@ -156,10 +626,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -246,6 +715,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="testsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mysite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -270,6 +801,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\djangogirl\testsite\templates" />
+      <recent name="C:\djangogirl\testsite" />
       <recent name="C:\djangogirl" />
       <recent name="C:\djangogirl\testsite\templates\static\js" />
     </key>
@@ -575,14 +1107,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19083156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3916849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12263099" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4936034" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3322072" sideWeight="0.4936034" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -798,7 +1330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/testsite/static/css/footable.bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-867">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -806,7 +1338,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/footable.bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/testsite/static/css/footable.bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
@@ -814,7 +1346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/footable.standalone.min.css">
+    <entry file="file://$PROJECT_DIR$/testsite/static/css/footable.standalone.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -822,7 +1354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/js/footable.js">
+    <entry file="file://$PROJECT_DIR$/testsite/static/js/footable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -832,21 +1364,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/js/footable.min.js">
+    <entry file="file://$PROJECT_DIR$/testsite/static/js/footable.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/admin/input_filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,16 +1379,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,15 +1400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/symbols_panel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/all.html">
+    <entry file="file://$PROJECT_DIR$/testsite/static/Keyboard-master/js/jquery.keyboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -902,23 +1408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/Keyboard-master/js/jquery.keyboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/show_gramota.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/blog.css">
+    <entry file="file://$PROJECT_DIR$/testsite/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
@@ -926,25 +1416,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/keyboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="67" selection-start-line="85" selection-start-column="67" selection-end-line="85" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/letopis.html">
+    <entry file="file://$PROJECT_DIR$/testsite/static/css/keyboard.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -952,23 +1424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/css/keyboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/static/js/jquery.keyboard.js">
+    <entry file="file://$PROJECT_DIR$/testsite/static/js/jquery.keyboard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -986,30 +1442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/gramota.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="0" selection-start-line="11" selection-start-column="10" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/testsite/update_gramota.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1017,6 +1449,62 @@
           <folding>
             <element signature="e#640#681#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="67" selection-start-line="85" selection-start-column="67" selection-end-line="85" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/letopis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/show_gramota.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/symbols_panel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,10 +1518,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+    <entry file="file://$PROJECT_DIR$/testsite/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+        <state relative-caret-position="782">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/admin/input_filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/static/js/keyboard-script2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/static/js/keyboard-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="580" column="7" selection-start-line="580" selection-start-column="7" selection-end-line="580" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/gramota.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/update_gramota.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
