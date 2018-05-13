@@ -1,6 +1,17 @@
 {% extends 'index.html' %}
+{% load static %}
+
 
 {% block gramota %}
+{#     <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">#}
+    <link rel="stylesheet" href="{% static "css/bootstrap-table.css" %}">
+    <link rel="stylesheet" href="{% static "css/examples.css" %}">
+    <script src="{% static "js/jquery.min.js" %}"></script>
+    <script src="{% static "js/bootstrap.min.js" %}"></script>
+    <script src="{% static "js/bootstrap-table.js" %}"></script>
+    <script src="{% static "js/bootstrap-table-filter-control.js" %}"></script>
+    <script src="{% static "js/ga.js" %}"></script>
+
      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
             <h1 class="h2">Грамота</h1>
         <a href="/add_gramota/">
@@ -9,52 +20,19 @@
         </a>
         </div>
     <body>
-{#        <input type="text" id="ArticleNameInput" onkeyup="myFunction()" placeholder="Search for names..">#}
-{#        <input type="text" id="TitleInput"  placeholder="Search for names..">#}
-{##}
-{#        <button type="submit" id="myTestButton" onekeyup="myFunction"></button>#}
-{##}
-{#        <script>#}
-{#            function myFunction() {#}
-{#              // Declare variables#}
-{#              var article_input, title_input, article_filter, table, tr, article_td, title_td, i;#}
-{#              article_input = document.getElementById("ArticleNameInput");#}
-{#              title_input = document.getElementById("TitleInput");#}
-{#              article_filter = article_input.value.toUpperCase();#}
-{#              title_filter =  title_input.value.toUpperCase();#}
-{#              table = document.getElementById("myTable");#}
-{#              tr = table.getElementsByTagName("tr");#}
-{##}
-{#              // Loop through all table rows, and hide those who don't match the search query#}
-{#              for (i = 0; i < tr.length; i++) {#}
-{#                article_td = tr[i].getElementsByTagName("td")[0];#}
-{#                title_td = tr[i].getElementsByTagName("td")[3];#}
-{#                if ((article_td)&(title_td)) {#}
-{#                  if ((article_td.innerHTML.toUpperCase().indexOf(article_filter) > -1)&(title_td.innerHTML.toUpperCase().indexOf(td_filter) > -1))#}
-{#                  {#}
-{#                    tr[i].style.display = "";#}
-{#                  } else {#}
-{#                    tr[i].style.display = "none";#}
-{#                  }#}
-{#                }#}
-{#              }#}
-{#            }#}
-{#        </script>#}
 
-
-
-
-         <table class="table" id="myTable" data-paging="true">
+         <table class="table" id="table" data-pagination=true" data-toggle="table"
+                data-filter-control="true" data-filter-show-clear="true">
 
         <thead class="thead-light">
             <tr>
-                <th scope="col col-lg-2">Статья</th>
-                <th scope="col col-lg-2">Автор</th>
+                <th data-field="article_name" scope="col col-lg-2" data-filter-control="input">Статья</th>
+                <th data-field="author" scope="col col-lg-2" data-filter-control="input">Автор</th>
 {#                <th scope="col col-lg-2">Автор до</th>#}
-                <th scope="col">Имя в источниках</th>
-                <th scope="col">Титулы</th>
-                <th scope="col">Даты жизни</th>
-                <th scope="col-md-auto">Биография</th>
+                <th data-field="name_in_sources" scope="col" data-filter-control="input">Имя в источниках</th>
+                <th data-field="titles" scope="col" data-filter-control="input">Титулы</th>
+                <th data-field="life_dates" scope="col" data-filter-control="input">Даты жизни</th>
+                <th data-field="biography" scope="col-md-auto" data-filter-control="input">Биография</th>
 {#                <th scope="col">Семейные отношения</th>#}
 {#                <th scope="col">Другое</th>#}
 {#                <th scope="col">Источники</th>#}

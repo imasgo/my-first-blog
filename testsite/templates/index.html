@@ -37,6 +37,18 @@
     <script src="{% static "js/jquery.keyboard.extension-all.js"  %}"></script>
       <script  src="{% static "js/keyboard-script.js" %}"></script>
 
+{#    <title>Filter Control</title>#}
+{#    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">#}
+{#    <link rel="stylesheet" href="{% static "css/bootstrap-table.css" %}">#}
+{#    <link rel="stylesheet" href="{% static "css/examples.css" %}">#}
+{#    <script src="{% static "js/jquery.min.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap.min.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap-table.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap-table-filter-control.js" %}"></script>#}
+{#    <script src="{% static "js/ga.js" %}"></script>#}
+
+
+
     <!-- or include individual extensions, as desired -->
     <!--
     <script src="js/jquery.mousewheel.js"></script>
@@ -52,6 +64,7 @@
     -->
 
 
+</head>
 
 <body>
     <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
@@ -107,25 +120,14 @@
     </div>
 
 
-      <div>
-          <div id="wrap">
-{#        <input id="keyboard" type="text" />#}
-        <img id="icon" src="https://mottie.github.io/Keyboard/docs/css/images/keyboard.png" />
-
-
-      </div>
-
         <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+
             {% block gramota %}{% endblock %}
             {% block show_gramota %} {% endblock %}
             {% block update_gramota %}{% endblock %}
             {% block symbols_panel %}{% endblock %}
 
         </main>
-
-
-      </div>
-    </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
