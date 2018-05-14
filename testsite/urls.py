@@ -13,6 +13,8 @@ urlpatterns = [
     url(r'^show_gramota/(?P<pk>\d+)/update_gramota/$', views.update_gramota, name='update_gramota'),
     url(r'^symbols_panel/$', views.symbols_panel, name='symbols_panel'),
     url(r'^all/$', views.all, name='letopis'),
+    url(r'^show_note/(?P<pk>\d+)/$', views.show_note, name='show_note'),
+    url(r'^add_note/', views.add_note, name='add_note')
 
               ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 urlpatterns += staticfiles_urlpatterns()

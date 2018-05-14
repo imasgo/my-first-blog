@@ -6,6 +6,7 @@ class HistoryNoteForm(forms.ModelForm):
     article_name = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Название статьи'}))
     author_before = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Старый автор', }))
     name_in_sources = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Имя в источниках', 'id':'keyboard'}))
+    note_type = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Папка'}))
     titles = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Титулы'}))
     life_dates = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Даты жизни'}))
     biography = forms.CharField(widget=forms.Textarea(attrs={'class': 'form-control', 'placeholder': 'Биография'}))
@@ -16,6 +17,6 @@ class HistoryNoteForm(forms.ModelForm):
 
     class Meta:
         model = HistoryNote
-        fields=('article_name','name_in_sources','author_before',
+        fields =['article_name','name_in_sources','author_before','note_type',
                 'titles','biography','life_dates','family_relationship',
-                'sources','literature','others')
+                'sources','literature','others']
