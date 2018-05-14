@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 74
+author=kdpokrovskaya@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=Ок. 1160-1180 гг.
+biography=К ней собирался свататься некий %молодой человек%. Его мать, %Янка% и отец, %Селята%, пишут свахе %Ярине% об этом его намерении. 
+family_relationship=
+others=
+sources=[Грамота] №731 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 392-394.
+literature=Русская ||А. А. Гиппиус. К прагматике и коммуникативной организации берестяных грамот // НГБ–XI.||Иностранная||R. Faccani. Iscrizioni novgorodiane su corteccia di betulla. Udine, 1995.

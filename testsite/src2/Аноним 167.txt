@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 167
+author=mvbunina@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=ок. 1140-1160 гг. 
+biography=Сделал заказ на иконы (Дмитрия и Христины, Иоанна и Марии, Иоанна, Симеона)
+family_relationship=
+others=
+sources= [Грамота] № 602// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 348-349
+literature=Статья ДНД: Б45||Попр.-VIII

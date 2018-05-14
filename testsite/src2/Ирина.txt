@@ -1,0 +1,11 @@
+folder=852-963
+article_name=Ирина
+author=Анна Ершова
+name_in_sources=Ирина (И.п.) (НПЛмл) 
+titles=
+life_dates=854 [6362] (НПЛмл).
+biography=Проповедовала поклонение иконам в первую неделю поста. 
+family_relationship=сын %Михаил%
+others=
+sources=НПЛмл // Новгородская первая летопись старшего и младшего извода. М. - Л., 1950. - С. 105. 
+literature=

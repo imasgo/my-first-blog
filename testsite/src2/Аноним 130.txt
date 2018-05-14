@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 130
+author=Elizaveta Zubyuk
+name_in_sources=
+titles=Дьяк. 
+life_dates=Ок. 1120-1140 гг. 
+biography=По грамоте %Глебки% должен был получить пять, возможно, гривен и церковную гривну. 
+family_relationship=
+others=
+sources=[Грамота] №739 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 291-292.   
+literature=Гиппиус 2004а, Том НГБ: X.

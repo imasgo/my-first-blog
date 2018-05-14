@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=…Петрович
+author=evyakovleva_3@edu.hse.ru
+name_in_sources=Сохранилось только отчество- Птерович 
+titles=
+life_dates= Условная дата: 1140–1160
+biography=
+family_relationship=
+others=
+sources=
+literature=

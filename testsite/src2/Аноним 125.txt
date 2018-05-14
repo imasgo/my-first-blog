@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 125
+author=kdpokrovskaya@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=Ок. 1100 - 1120 гг.
+biography=Его %возлюбленная% писала к нему письмо, в котором спрашивала, почему А.  не пришел на свидание.
+family_relationship=
+others=
+sources=1. Грамота №752 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 249 - 254
+literature=2. Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 249 - 254||3. W. Vermeer. Russisch op berkenbast van de elfde tot de vijftiende eeuw. Leiden, 1999.

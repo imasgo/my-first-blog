@@ -95,18 +95,12 @@
                   Грамота
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/letopis/">
-                  <span data-feather="layers"></span>
-                  Летопись
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/researchers/">
-                  <span data-feather="users"></span>
-                  Участники
-                </a>
-              </li>
+{#              <li class="nav-item">#}
+{#                <a class="nav-link" href="/researchers/">#}
+{#                  <span data-feather="users"></span>#}
+{#                  Участники#}
+{#                </a>#}
+{#              </li>#}
               <li class="nav-item">
                 <a class="nav-link" href="/all/">
                   <span data-feather="bar-chart-2"></span>
@@ -124,6 +118,8 @@
             {% block show_gramota %} {% endblock %}
             {% block update_gramota %}{% endblock %}
             {% block symbols_panel %}{% endblock %}
+
+            {% block letopis %}{% endblock %}
 
         </main>
       </div>

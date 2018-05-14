@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 197
+author=evgolovkina@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=1160-1180
+biography=У него %Аноним% занял некоторое количество кун.
+family_relationship=
+others=
+sources=Грамота 170// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 453
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 453

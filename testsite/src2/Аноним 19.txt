@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 19
+author=Арсений Щелоков
+name_in_sources=
+titles=Отрок
+life_dates=ок. 1140-1160 гг. 
+biography=Возможно, состоял на службе у одного из новгородских князей. 
+family_relationship=
+others=
+sources=Грамота №822
+literature=1. Том НГБ: XI

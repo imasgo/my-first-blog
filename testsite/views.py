@@ -14,8 +14,13 @@ def index(request):
 
 
 def gramota(request):
-    historynotes = HistoryNote.objects.order_by('name_in_sources')
-    return render(request, 'gramota.html', {'historynotes': historynotes})
+    gramotas = HistoryNote.objects.filter(note_type=1)
+    return render(request, 'gramota.html', {'gramotas': gramotas})
+
+def all(request):
+    letopises = HistoryNote.objects.all()
+    return render(request, 'all_historynotes.html', {'letopises': letopises})
+
 
 
 # class Gramota(ListView):

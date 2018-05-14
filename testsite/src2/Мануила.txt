@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Мануила
+author=Elizaveta Zubyuk
+name_in_sources=МАNУИЛА (Им. пад.) 
+titles=
+life_dates=Ок. 1180-1200 гг. 
+biography=Скончалась в период ок. 1180-1200 гг.  
+family_relationship=
+others=
+sources=[Грамота] №553 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 466.
+literature=Попр.-X, Том НГБ: VIII.

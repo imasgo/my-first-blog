@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 247
+author=evyakovleva_3@edu.hse.ru
+name_in_sources=предположительно, имя заканчивается на -уй
+titles=
+life_dates=1050–1075
+biography=
+family_relationship=
+others=
+sources=Грамота #593// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 336.  
+literature= Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 336.  

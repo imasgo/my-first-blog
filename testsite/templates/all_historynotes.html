@@ -1,0 +1,71 @@
+{% extends 'index.html' %}
+{% load static %}
+
+
+{% block letopis %}
+{#     <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">#}
+    <link rel="stylesheet" href="{% static "css/bootstrap-table.css" %}">
+    <link rel="stylesheet" href="{% static "css/examples.css" %}">
+    <script src="{% static "js/jquery.min.js" %}"></script>
+    <script src="{% static "js/bootstrap.min.js" %}"></script>
+    <script src="{% static "js/bootstrap-table.js" %}"></script>
+    <script src="{% static "js/bootstrap-table-filter-control.js" %}"></script>
+    <script src="{% static "js/ga.js" %}"></script>
+
+     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+            <h1 class="h2">Все записи</h1>
+        <a href="/add_gramota/">
+            <button type="button" class="btn btn-primary">Добавить запись
+            </button>
+        </a>
+        </div>
+    <body>
+
+         <table class="table" id="table" data-pagination=true" data-toggle="table"
+                data-filter-control="true" data-filter-show-clear="true">
+
+        <thead class="thead-light">
+            <tr>
+                <th data-field="article_name" scope="col col-lg-2" data-filter-control="input">Статья</th>
+                <th data-field="author" scope="col col-lg-2" data-filter-control="input">Автор</th>
+{#                <th scope="col col-lg-2">Автор до</th>#}
+                <th data-field="name_in_sources" scope="col" data-filter-control="input">Имя в источниках</th>
+                <th data-field="titles" scope="col" data-filter-control="input">Титулы</th>
+                <th data-field="life_dates" scope="col" data-filter-control="input">Даты жизни</th>
+                <th data-field="note_type" scope="col" data-filter-control="select">Папка</th>
+                <th data-field="biography" scope="col-md-auto" data-filter-control="input">Биография</th>
+
+{#                <th scope="col">Семейные отношения</th>#}
+{#                <th scope="col">Другое</th>#}
+{#                <th scope="col">Источники</th>#}
+{#                <th scope="col">Литература</th>#}
+            </tr>
+        </thead>
+        <tbody>
+            {% for historynote in letopises %}
+                <tr>
+
+                    <td>
+                        <a href = "/show_letopis/{{ historynote.pk }}/"
+                           class = "card-link">{{historynote.article_name}}
+                        </a>
+                    </td>
+                    <td>{{ historynote.author }}</td>
+{#                    <td>{{historynote.author_before}}</td>#}
+                    <td>{{historynote.name_in_sources }}</td>
+                    <td>{{historynote.titles }}</td>
+                    <td>{{historynote.life_dates }}</td>
+                    <td>{{ historynote.note_type }}</td>
+                    <td>{{ historynote.biography }}</td>
+{#                    <td>{{ historynote.family_relationship }}</td>#}
+{#                    <td>{{ historynote.other }}</td>#}
+{#                    <td>{{ historynote.sources }}</td>#}
+{#                    <td>{{ historynote.literature }}</td>#}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    </body>
+
+{% endblock %}
+

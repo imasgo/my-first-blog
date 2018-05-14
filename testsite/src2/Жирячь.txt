@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Жирячь
+author=kdpokrovskaya@edu.hse.ru
+name_in_sources=ЖИРѦЦѦ  (Род. пад.)
+titles=
+life_dates=Ок. 1100-1120
+biography=Писал %кому-то% письмо.
+family_relationship=
+others=
+sources=[Грамота] №434 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 275.
+literature=Русская||1. Попр.–IX — А. А. Зализняк. Поправки и замечания к чтению ранее опубликованных берестяных грамот // НГБ IX. С. 123–180.||Иностранная||2. Вермеер 1992 — W. Vermeer. Evfim\'ja, Maskim and others: critical notes on Novgorod birchbark documents // Studies in Russian Linguistics (= Studies in Slavic and General Linguistics, 17), 1992. P. 383–434.
