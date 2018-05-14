@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Варвара 2
+author=Elizaveta Zubyuk
+name_in_sources=ВАРЪВАРОУ (Вин. пад.) 
+titles=
+life_dates=Ок. 1140-1160 гг. 
+biography=Скончалась в период ок. 1140-1160 гг.
+family_relationship=
+others=
+sources=[Грамота] №560 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 349.
+literature=Зализняк 2004; Том НГБ: VIII.

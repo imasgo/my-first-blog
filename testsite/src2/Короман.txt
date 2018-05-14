@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Короман
+author=ssmagulov@edu.hse.ru
+name_in_sources=КOPOMAN(A) (Род.п.)
+titles=
+life_dates=Упоминается в документе 1200-1220гг.
+biography=
+family_relationship=
+others=
+sources=[грамота №7] А.В.Арциховский, М.Н.Тихомиров Новгородские грамоты на бересте (из раскопок 1951 г.) изд. Академии наук СССР, М., 1953, стр.37.
+literature=А.А.Зализняк Древненовгородский диалект, второе издание, Москва, 2004 год, стр. 452.||Л. П. Жуковская. Новгородские берестяные грамоты. М., 1959.||Tönnies Fenne'sLowGerman Manual of Spoken Russian(Pskov, 1607). Vol.II. Copenhagen, 1970, стр. 332.

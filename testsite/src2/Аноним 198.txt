@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 198
+author=evgolovkina@edu.hse.ru
+name_in_sources=
+titles=
+life_dates=1140-1160
+biography=Ссуживал деньги с %Фолара%.
+family_relationship=
+others=
+sources=Грамота 234// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 340
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 340

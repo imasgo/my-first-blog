@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Янка
+author=kdpokrovskaya@edu.hse.ru
+name_in_sources=ѦNОКѢ  (Род. пад.)
+titles=
+life_dates=Ок. 1160-1180 гг.
+biography=От своего имени и имени мужа, %Селяты%, дала положительный ответ свахе %Ярине% на вопрос о возможном сватовстве %сына%. 
+family_relationship=Жена %Селяты%. Имела %сына%. 
+others=
+sources=[Грамота] №731 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 392-394.
+literature=Русская ||А. А. Гиппиус. К прагматике и коммуникативной организации берестяных грамот // НГБ–XI.||Иностранная||R. Faccani. Iscrizioni novgorodiane su corteccia di betulla. Udine, 1995.

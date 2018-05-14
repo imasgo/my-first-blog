@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Осяда
+author=evyakovleva_3@edu.hse.ru
+name_in_sources=Осяда 
+titles=
+life_dates=1180-1200 года
+biography=
+family_relationship=
+others=возможно, имя, но точной уверенности нет
+sources=Грамота #455// Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. 
+literature= Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004.

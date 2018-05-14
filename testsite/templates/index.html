@@ -1,0 +1,151 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+      <!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <!-- jQuery UI theme or Bootstrap (optional, if you create a custom theme) -->
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+{#    <link href="../static/css/bootstrap.min.css" rel="stylesheet">#}
+
+    <!-- jQuery UI position utility (optional, if you position the keyboard yourself) -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
+
+    <!-- keyboard widget css & script -->
+    <link href="{% static "css/keyboard.css" %}" rel="stylesheet">
+    <script src="{% static "js/jquery.keyboard.js" %}"></script>
+
+    <!-- css for the preview keyset extension -->
+    <link href="{% static "css/keyboard-previewkeyset.css" %}" rel="stylesheet">
+
+    <!-- keyboard optional extensions - include ALL (includes mousewheel) -->
+    <script src="{% static "js/jquery.keyboard.extension-all.js"  %}"></script>
+      <script  src="{% static "js/keyboard-script.js" %}"></script>
+
+{#    <title>Filter Control</title>#}
+{#    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">#}
+{#    <link rel="stylesheet" href="{% static "css/bootstrap-table.css" %}">#}
+{#    <link rel="stylesheet" href="{% static "css/examples.css" %}">#}
+{#    <script src="{% static "js/jquery.min.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap.min.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap-table.js" %}"></script>#}
+{#    <script src="{% static "js/bootstrap-table-filter-control.js" %}"></script>#}
+{#    <script src="{% static "js/ga.js" %}"></script>#}
+
+
+
+    <!-- or include individual extensions, as desired -->
+    <!--
+    <script src="js/jquery.mousewheel.js"></script>
+    <script src="js/jquery.keyboard.extension-altkeypopup.js"></script>
+    <script src="js/jquery.keyboard.extension-autocomplete.js"></script>
+    <script src="js/jquery.keyboard.extension-caret.js"></script>
+    <script src="js/jquery.keyboard.extension-extender.js"></script>
+    <script src="js/jquery.keyboard.extension-mobile.js"></script>
+    <script src="js/jquery.keyboard.extension-navigation.js"></script>
+    <script src="js/jquery.keyboard.extension-previewkeyset.js"></script>
+    <script src="js/jquery.keyboard.extension-scramble.js"></script>
+    <script src="js/jquery.keyboard.extension-typing.js"></script>
+    -->
+
+
+</head>
+
+<body>
+    <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
+      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Prospography HSE</a>
+
+      <ul class="navbar-nav px-3">
+        <li class="nav-item text-nowrap">
+          <a class="nav-link" href="#">Sign out</a>
+        </li>
+      </ul>
+    </nav>
+
+{# Красивая боковая менюха #}
+    <div class="container-fluid">
+      <div class="row">
+        <nav class="col-2 d-none d-md-block bg-light sidebar">
+          <div class="sidebar-sticky">
+            <ul class="nav flex-column">
+              <li class="nav-item">
+                <a class="nav-link active" href="/">
+                  <span data-feather="home"></span>
+                  Обзор <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/gramota/">
+                  <span data-feather="file"></span>
+                  Грамота
+                </a>
+              </li>
+{#              <li class="nav-item">#}
+{#                <a class="nav-link" href="/researchers/">#}
+{#                  <span data-feather="users"></span>#}
+{#                  Участники#}
+{#                </a>#}
+{#              </li>#}
+              <li class="nav-item">
+                <a class="nav-link" href="/all/">
+                  <span data-feather="bar-chart-2"></span>
+                  Все записи
+                </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+
+            {% block gramota %}{% endblock %}
+            {% block show_gramota %} {% endblock %}
+            {% block update_gramota %}{% endblock %}
+            {% block symbols_panel %}{% endblock %}
+            {% block show_note %} {% endblock %}
+            {% block add_note %} {% endblock %}
+
+
+            {% block letopis %}{% endblock %}
+
+        </main>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster конфликтует с jQuery UI-->
+{#    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>#}
+{#    <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>#}
+
+    <!-- Django-Bootstrap конфликтует с jQuery UI-->
+{#    <script src="{% static 'bootstrap/js/jquery.min.js' %}"></script>#}
+{#    <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>#}
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace()
+    </script>
+
+{#  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">#}
+{#  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">#}
+    </body>
+</html>

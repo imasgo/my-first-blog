@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 148
+author=Elizaveta Zubyuk
+name_in_sources=
+titles=Староста села Гибно. 
+life_dates=Ок. 1120-1140 гг.
+biography=Получил от жителей села Гибно грамоту с просьбой оштрафовать %Хотьжера%.
+family_relationship=
+others=
+sources=[Грамота] №900 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 286.
+literature=Зализняк 2004, Том НГБ: XI. 

@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Олисей
+author=Elizaveta Zubyuk
+name_in_sources=ОЛИСЕѦ (Род. пад.) 
+titles=
+life_dates=Ок. 1160–1180 гг. 
+biography=Должен был составителю долгового списка резану. 
+family_relationship=
+others=
+sources=[Грамота] №228 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 381. 
+literature=Зализняк 2004; Попр.-IX; Том НГБ: V.

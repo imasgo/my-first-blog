@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Аноним 150
+author=avkozlovskiy
+name_in_sources=
+titles=
+life_dates=Ок. 1100-1120. 
+biography=
+family_relationship=
+others=
+sources=[Грамота] № 238 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 259-260.  
+literature=[Грамота] № 238 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 259-260.||Том НГБ V 

@@ -5,6 +5,7 @@ from django.utils import timezone
 class HistoryNote(models.Model):
     article_name = models.TextField(null=True)
     author = models.ForeignKey('auth.User', default='hello', on_delete=models.DO_NOTHING)
+    note_type = models.CharField(max_length=250, null=True, blank=True)
     author_before = models.CharField(max_length=100, null=True, blank=True)
     name_in_sources = models.CharField(max_length=250, null=True, blank=True)
     titles = models.TextField(null=True, blank=True)

@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Иван 7
+author=evgolovkina@edu.hse.ru
+name_in_sources= (Р. п.)
+titles=
+life_dates=1180-1200
+biography=Упоминается в грамоте, посланной %Хоританом%%Моисею%.
+family_relationship=
+others=
+sources=Грамота 430 //Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 453
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 453||Попр.- VIII 
