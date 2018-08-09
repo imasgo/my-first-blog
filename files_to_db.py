@@ -43,7 +43,7 @@ path = os.path.join(os.path.dirname(__file__),'testsite','src2')
 with conn:
     for filename in os.listdir(path):
         if filename.endswith('.txt'):
-            file = open(path+'\\'+filename,'r',encoding='utf-8')
+            file = open(path+'/'+filename,'r',encoding='utf-8')
             for line in file:
                 eq = line.index('=',0,len(line))
                 value_st = line[eq+1:len(line)]

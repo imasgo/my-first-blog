@@ -3,6 +3,7 @@ from .models import HistoryNote
 from django.db.models import Q
 
 
+
 class InputFilter(admin.SimpleListFilter):
     template = 'admin/input_filter.html'
     # related_filter_parameter = 'NameInSourcesFilter__TitlesFilter'
@@ -18,17 +19,6 @@ class InputFilter(admin.SimpleListFilter):
                 (str(person.id))
             )
         return sorted(list_of_people, key=lambda tp: tp[1])
-
-    def choices(self, changelist):
-        # Grab only the "all" option.
-        all_choice = next(super().choices(changelist))
-        all_choice['query_parts'] = (
-            (k, v)
-            for k, v in changelist.get_filters_params().items()
-            if k != self.parameter_name
-        )
-        yield all_choice
-
 
 # class NameInSourcesFilter(InputFilter):
 #     parameter_name = 'name_in_sources'
