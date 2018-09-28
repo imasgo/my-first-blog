@@ -14,7 +14,15 @@ urlpatterns = [
     url(r'^symbols_panel/$', views.symbols_panel, name='symbols_panel'),
     url(r'^all/$', views.all, name='letopis'),
     url(r'^show_note/(?P<pk>\d+)/$', views.show_note, name='show_note'),
-    url(r'^add_note/', views.add_note, name='add_note')
+    url(r'^add_note/', views.add_note, name='add_note'),
+    url(r'^1112-1122/$', views.one, name='1112-1122'),
+    url(r'^852-963/$', views.eightfivetwo, name='852-963'),
+    url(r'^XII/$', views.twelve, name='XII век'),
+    url(r'^jews/$', views.jews, name='Еврейско-хазарская переписка Х века'),
+    url(r'^cambridge/$', views.cambridge, name='Киевское письмо и Кембриджский документ'),
+    url(r'^novgorod/$', views.novgorod, name='Новгород'),
+    url(r'^saga/$', views.saga, name='Сага об Олаве Трюгвассоне'),
+    url(r'^sophia/$', views.sophia, name='София Киевская'),
 
               ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 urlpatterns += staticfiles_urlpatterns()

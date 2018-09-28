@@ -1,0 +1,11 @@
+folder=Новгород
+article_name=Онуфрий
+author=epvig@edu.hse.ru
+name_in_sources=ОNOУѲРИИ (р.п.)
+titles=
+life_dates=
+biography=Около сер. 50-х — сер. 90-х гг. XII в был упомянут в письме от %Серафьяна%
+family_relationship=
+others=
+sources=Грамота №643 // Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 386.
+literature=Зализняк А.А. Древненовгородский диалект: 2-е изд., перераб. М., 2004. С. 386.

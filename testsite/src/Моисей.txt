@@ -1,0 +1,10 @@
+article_name=Моисей
+author=mesatyeva@edu.hse.ru
+name_in_sources=MO[ИСѢЮ] (дат. п.)
+titles=
+life_dates=Ок. 1200–1220 гг.
+biography=Ок. 1200–1220 гг. получил от %Анонима% (отца), указание о сборе долгов с %Ярыша% и %Анонима%.
+family_relationship=Сын %Анонима%.
+others=
+sources=[Грамота] № Смол. 9/8
+literature=
