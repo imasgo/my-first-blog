@@ -64,7 +64,7 @@ def add_note(request):
             historynote = form.save(commit=False)
             historynote.author = request.user
             historynote.save()
-            return redirect('letopis')
+            return redirect('show_note', pk=historynote.pk)
         else:
             form = HistoryNoteForm()
     return render(request, 'add_note.html', {'form': form})
