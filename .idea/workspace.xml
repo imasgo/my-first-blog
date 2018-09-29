@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="commit before pull">
-      <change beforePath="$PROJECT_DIR$/testsite/templates/1112-1122.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/1112-1122.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/852-963.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/852-963.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/all_historynotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/all_historynotes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/cambridge.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/cambridge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/gramota.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/gramota.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/jews.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/jews.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/novgorod.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/novgorod.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/saga.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/saga.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/show_gramota.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/show_gramota.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/show_note.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/show_note.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsite/templates/sophia.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/sophia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsite/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testsite/templates/index.html" afterDir="false" />
     </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="30" />
+          <entry key="HTML" value="31" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="30" />
+          <entry key="html" value="31" />
           <entry key="py" value="8" />
         </counts>
       </usages-collector>
@@ -60,14 +50,14 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="547" />
+          <entry key="html" value="678" />
           <entry key="py" value="707" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="547" />
+          <entry key="HTML" value="678" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="Python" value="707" />
         </counts>
@@ -117,11 +107,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/testsite/templates/add_note.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="4800">
-                  <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
+                  <caret line="320" selection-start-line="320" selection-end-line="320" />
                 </state>
               </provider>
             </entry>
@@ -131,6 +121,15 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="315">
                   <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/testsite/templates/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="261">
+                  <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -148,15 +147,6 @@
             <entry file="file://$PROJECT_DIR$/testsite/templates/852-963.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="310">
-                  <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/testsite/templates/1112-1122.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
                   <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
                 </state>
               </provider>
@@ -230,7 +220,6 @@
         <option value="$PROJECT_DIR$/testsite/templates/1.html" />
         <option value="$PROJECT_DIR$/testsite/urls.py" />
         <option value="$PROJECT_DIR$/testsite/views.py" />
-        <option value="$PROJECT_DIR$/testsite/templates/index.html" />
         <option value="$PROJECT_DIR$/testsite/templates/XII.html" />
         <option value="$PROJECT_DIR$/testsite/templates/gramota.html" />
         <option value="$PROJECT_DIR$/testsite/templates/cambridge.html" />
@@ -243,6 +232,7 @@
         <option value="$PROJECT_DIR$/testsite/templates/sophia.html" />
         <option value="$PROJECT_DIR$/testsite/templates/852-963.html" />
         <option value="$PROJECT_DIR$/testsite/templates/1112-1122.html" />
+        <option value="$PROJECT_DIR$/testsite/templates/index.html" />
       </list>
     </option>
   </component>
@@ -455,9 +445,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20100144" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20100144" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,7 +458,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5063966" side_tool="true" weight="0.12263099" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32827586" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4936034" visible="true" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4936034" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -668,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="140" column="49" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -786,7 +768,14 @@
     <entry file="file://$PROJECT_DIR$/testsite/templates/add_note.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4800">
-          <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="74" column="60" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
         </state>
       </provider>
     </entry>
