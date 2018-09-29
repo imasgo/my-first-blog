@@ -54,11 +54,11 @@
                     </td>
                     <td>{{ historynote.author }}</td>
 {#                    <td>{{historynote.author_before}}</td>#}
-                    <td>{{historynote.name_in_sources }}</td>
-                    <td>{{historynote.titles }}</td>
-                    <td>{{historynote.life_dates }}</td>
+                    <td>{{historynote.name_in_sources|urlize }}</td>
+                    <td>{{historynote.titles|urlize }}</td>
+                    <td>{{historynote.life_dates|urlize }}</td>
 {#                    <td>{{ historynote.note_type }}</td>#}
-                    <td>{{ historynote.biography }}</td>
+                    <td>{{ historynote.biography|urlize }}</td>
 {#                    <td>{{ historynote.family_relationship }}</td>#}
 {#                    <td>{{ historynote.other }}</td>#}
 {#                    <td>{{ historynote.sources }}</td>#}

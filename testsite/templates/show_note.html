@@ -14,22 +14,22 @@
         </div>
         <div class="">
             <h5>Имя в источниках:</h5>
-            {{ historynote.name_in_sources }}
+            {{ historynote.name_in_sources|urlize }}
         </div>
         <h5>Титулы:</h5>
-            {{ historynote.titles }}
+            {{ historynote.titles|urlize }}
         <h5>Даты жизни:</h5>
-            {{ historynote.life_dates }}
+            {{ historynote.life_dates|urlize }}
         <h5>Биография:</h5>
-            {{ historynote.biography }}
+            {{ historynote.biography|urlize }}
         <h5>Семейные отношения:</h5>
-            {{ historynote.family_relationship }}
+            {{ historynote.family_relationship|urlize }}
         <h5>Другое:</h5>
-            {{ historynote.others }}
+            {{ historynote.others|urlize }}
         <h5>Источники:</h5>
-            {{ historynote.sources }}
+            {{ historynote.sources|urlize }}
         <h5>Литература:</h5>
-            {{ historynote.literature }}
+            {{ historynote.literature|urlize }}
 
     </div>
 
