@@ -5,10 +5,12 @@
 
      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
          <h1>{{ historynote.article_name }}</h1>
+         {% if user.id > 0 %}
          <a href="{% url 'update_gramota' pk=historynote.pk %}">
             <button type="button" class="btn btn-primary">Редактировать грамоту
             </button>
          </a>
+         {% endif %}
         </div>
         <div class="">
             <h5>Имя в источниках:</h5>

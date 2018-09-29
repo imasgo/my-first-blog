@@ -14,10 +14,12 @@
 
      <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
             <h1 class="h2">Сага об Олаве Трюгвассоне</h1>
+        {% if user.id > 0 %}
         <a href="/add_note/">
             <button type="button" class="btn btn-primary">Добавить запись
             </button>
         </a>
+     {% endif %}
         </div>
     <body>
 
