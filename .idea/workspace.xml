@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="commit before pull">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testsite/percent_and_link.py" afterDir="false" />
+    <list default="true" id="78cd45c4-ccd9-4258-939e-8ec4b7b10a28" name="Default" comment="commit for heroku req">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <ignored path="djangogirl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +42,7 @@
         <counts>
           <entry key="HTML" value="49" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="Python" value="17" />
         </counts>
       </usages-collector>
@@ -54,24 +52,25 @@
           <entry key="html" value="49" />
           <entry key="js" value="1" />
           <entry key="py" value="17" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Django Console" value="18" />
           <entry key="Procfile" value="10" />
           <entry key="html" value="747" />
           <entry key="py" value="966" />
-          <entry key="txt" value="23" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="747" />
-          <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Python" value="966" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="984" />
         </counts>
       </usages-collector>
     </session>
@@ -100,10 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -226,6 +225,7 @@
         <option value="$PROJECT_DIR$/testsite/percent_and_link.py" />
         <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -262,6 +262,17 @@
               <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
+              <item name="myvenv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangogirl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangogirl" type="462c0819:PsiDirectoryNode" />
+              <item name="myvenv" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,13 +462,27 @@
       <option name="project" value="LOCAL" />
       <updated>1537908149565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit for heroku">
+      <created>1552146988386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552146988386</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit for heroku req">
+      <created>1552147695933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552147695933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,7 +495,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5063966" side_tool="true" weight="0.12263099" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32827586" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4936034" weight="0.33333334" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -496,7 +521,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit before pull" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit before pull" />
+    <MESSAGE value="commit for heroku" />
+    <MESSAGE value="commit for heroku req" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for heroku req" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -540,9 +567,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testsite/static/css/footable.standalone.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsite/static/js/footable.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -800,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsite/templates/add_note.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="708">
@@ -821,6 +838,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsite/templates/add_note.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
