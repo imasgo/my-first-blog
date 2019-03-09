@@ -1,0 +1,1 @@
+web: gunicorn djangogirl.wsgi
